@@ -17,7 +17,6 @@ contract SimpleStorage {
     
     //Instance of a struct
     //People public person = People({favoriteNumber: 2, name: "Patrick"});
-    
     //Array (dynamic) of structs
     People[] public people;
 
